@@ -1,11 +1,5 @@
 # Solution to espeak-ng and phonemizer issues on Windows
 
-## Overview
-
-Hey everyone, I asked about this issue a couple of days ago and wanted to share the fix I discovered.
-
----
-
 ## 1. Install espeak-ng on Windows
 
 1. Download and install the `.msi` file from the [espeak-ng releases page](https://github.com/espeak-ng/espeak-ng/releases).
